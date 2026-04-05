@@ -9,41 +9,41 @@ Bu dizin, AltHack Security'nin **Security Products** kategorisi için hazırlana
 ### EDR / XDR
 | # | Dosya | Ürün | Kategori |
 |---|---|---|---|
-| 01 | [CrowdStrike-Falcon-Insight](01-CrowdStrike-Falcon-Insight.md) | CrowdStrike Falcon Insight XDR | EDR/XDR |
-| 02 | [SentinelOne-Singularity](02-SentinelOne-Singularity.md) | SentinelOne Singularity | EDR/XDR/CNAPP |
-| 03 | [Microsoft-Defender-XDR](03-Microsoft-Defender-XDR.md) | Microsoft Defender XDR | XDR/SIEM |
-| 04 | [Palo-Alto-Cortex-XDR](04-Palo-Alto-Cortex-XDR.md) | Palo Alto Cortex XDR | XDR/EDR |
-| 05 | [CrowdStrike-Platform](17-CrowdStrike-Platform.md) | CrowdStrike Platform Genel | Platform |
-| 06 | [SentinelOne-Platform](18-SentinelOne-Platform.md) | SentinelOne Platform Genel | Platform |
-| 07 | [Cortex-XDR-Detailed](19-Cortex-XDR-Detailed.md) | Cortex XDR Detaylı İnceleme | XDR |
+| 01 | [CrowdStrike-Falcon-Insight](CrowdStrike-Falcon-Insight.md) | CrowdStrike Falcon Insight XDR | EDR/XDR |
+| 02 | [SentinelOne-Singularity](SentinelOne-Singularity.md) | SentinelOne Singularity | EDR/XDR/CNAPP |
+| 03 | [Microsoft-Defender-XDR](Microsoft-Defender-XDR.md) | Microsoft Defender XDR | XDR/SIEM |
+| 04 | [Palo-Alto-Cortex-XDR](Palo-Alto-Cortex-XDR.md) | Palo Alto Cortex XDR | XDR/EDR |
+| 05 | [CrowdStrike-Platform](CrowdStrike-Platform.md) | CrowdStrike Platform Genel | Platform |
+| 06 | [SentinelOne-Platform](SentinelOne-Platform.md) | SentinelOne Platform Genel | Platform |
+| 07 | [Cortex-XDR-Detailed](Cortex-XDR-Detailed.md) | Cortex XDR Detaylı İnceleme | XDR |
 
 ### AI Güvenlik
 | # | Dosya | Ürün | Kategori |
 |---|---|---|---|
-| 08 | [Mindgard](05-Mindgard.md) | Mindgard | AI Security |
-| 09 | [Radiant-Security](06-Radiant-Security.md) | Radiant Security | AI SOC |
+| 08 | [Mindgard](Mindgard.md) | Mindgard | AI Security |
+| 09 | [Radiant-Security](Radiant-Security.md) | Radiant Security | AI SOC |
 
 ### SIEM
 | # | Dosya | Ürün | Kategori |
 |---|---|---|---|
-| 10 | [Wazuh](07-Wazuh.md) | Wazuh | SIEM/XDR (Açık Kaynak) |
-| 11 | [Splunk-Enterprise-Security](08-Splunk-Enterprise-Security.md) | Splunk Enterprise Security | SIEM |
-| 12 | [Microsoft-Sentinel](09-Microsoft-Sentinel.md) | Microsoft Sentinel | SIEM/SOAR |
-| 13 | [Elastic-Security](10-Elastic-Security.md) | Elastic Security | SIEM/EDR |
+| 10 | [Wazuh](Wazuh.md) | Wazuh | SIEM/XDR (Açık Kaynak) |
+| 11 | [Splunk-Enterprise-Security](Splunk-Enterprise-Security.md) | Splunk Enterprise Security | SIEM |
+| 12 | [Microsoft-Sentinel](Microsoft-Sentinel.md) | Microsoft Sentinel | SIEM/SOAR |
+| 13 | [Elastic-Security](Elastic-Security.md) | Elastic Security | SIEM/EDR |
 
 ### SOAR
 | # | Dosya | Ürün | Kategori |
 |---|---|---|---|
-| 14 | [Cortex-XSOAR](11-Cortex-XSOAR.md) | Palo Alto Cortex XSOAR | SOAR |
-| 15 | [Splunk-SOAR](12-Splunk-SOAR.md) | Splunk SOAR | SOAR |
-| 16 | [Tines](13-Tines.md) | Tines | SOAR/Automation |
+| 14 | [Cortex-XSOAR](Cortex-XSOAR.md) | Palo Alto Cortex XSOAR | SOAR |
+| 15 | [Splunk-SOAR](Splunk-SOAR.md) | Splunk SOAR | SOAR |
+| 16 | [Tines](Tines.md) | Tines | SOAR/Automation |
 
 ### Cloud Security / CNAPP
 | # | Dosya | Ürün | Kategori |
 |---|---|---|---|
-| 17 | [Wiz](14-Wiz.md) | Wiz | CNAPP |
-| 18 | [Orca-Security](15-Orca-Security.md) | Orca Security | CNAPP |
-| 19 | [CyCognito](16-CyCognito.md) | CyCognito | EASM |
+| 17 | [Wiz](Wiz.md) | Wiz | CNAPP |
+| 18 | [Orca-Security](Orca-Security.md) | Orca Security | CNAPP |
+| 19 | [CyCognito](CyCognito.md) | CyCognito | EASM |
 
 ---
 
