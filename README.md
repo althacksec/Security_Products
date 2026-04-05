@@ -60,10 +60,10 @@ Bu dizin, AltHack Security'nin **Security Products** kategorisi için hazırlana
 
 **AltHack Security**  
 LinkedIn: [linkedin.com/company/althack](https://linkedin.com/company/althack)  
-GitHub: [github.com/althacksec](https://github.com/althacksec)
-Medium: [medium.com/@althacksec](https://medium.com/@althacksec)
-Website: [althacksec.github.io](https://althacksec.github.io)
-E-posta: althacksecurity@gmail.com
+GitHub: [github.com/althacksec](https://github.com/althacksec) 
+Medium: [medium.com/@althacksec](https://medium.com/@althacksec) 
+Website: [althacksec.github.io](https://althacksec.github.io) 
+E-posta: althacksecurity@gmail.com 
 
 ---
 
